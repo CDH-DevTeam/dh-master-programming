@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 *_draft.ipynb
+*.csv
+*.txt
